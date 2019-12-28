@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1563555473 source:d:\projects\c++\billingapp\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	<stdlib.h>
+	<cstddef>
+
+1562665847 d:\projects\c++\billingapp\include\items.h
+	<string>
+
+1563034835 source:f:\japura\!st year\1st sem\c\projects\billingapp\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	<stdlib.h>
+	<cstddef>
+
+1563431015 source:c:\users\hansani perera\downloads\documents\billing\billingapp\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	<stdlib.h>
+	<cstddef>
+
+1563441061 source:c:\users\admin\desktop\billingapp\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<iomanip>
+	<vector>
+	<stdlib.h>
+	<cstddef>
+
